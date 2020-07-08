@@ -1,33 +1,29 @@
 # BaeHyeonWooPL
-Minecraft BaeHyeonWoo Plugin for me. Created By BaeHyeonWoo.
+Simple Minecraft Plugin for me. Needs more updates.
 
-Written in Intellij.
+Written in [Intellij Idea](https://www.jetbrains.com/idea/).
 
 ## New Version 
 
-Change lang to Kotlin.
+Change lang to [Kotlin](https://kotlinlang.org).
 
 ##
 
-**This Project is under License "GNU General Public License v3.0". Feel free to edit this repository. :D**
+**This Project is under License "GNU General Public License v3.0".**
 
-If you fixed bugs or added some functions, contact me anytime. I'll listen to you.
+If you fixed bugs or added some functions, use the issues or pull requests above.
 
-Also Forking this repository is allowed!
-
-**+ THIS IS A LEGACY PLUGIN.**
+**+ THIS IS A LEGACY PLUGIN. EVERYTHING MAY BE NOT WORK AS INTENDED.**
 
 # RUNNING IN MINECRAFT: JAVA EDITION 1.15.2
 
-TESTED ON PAPER. GOTO https://papermc.io FOR PAPER AND INFORMATION.
+TESTED ON PAPER. GOTO [Paper Official Website](https://papermc.io) FOR INFORMATION.
 
-**API VERSION IS 1.15. 1.15 ~ 1.15.2 IS SUPPORTED. NOT SUPPORTING OTHER VERSIONS WHWATSOEVER.**
+**API VERSION IS 1.15.**
 
-#
+**1.15 ~ 1.15.2 IS SUPPORTED. NOT SUPPORTING OTHER VERSIONS WHWATSOEVER.**
 
-Finding someone who can help and teach me Java easily. (or minecraft plugin at least.) Contacts can be found below.
-
-## In-Game Command List (Main.java / plugin.yml)
+## In-Game Command List (Main.kt / plugin.yml)
 
 ## Main Commands :
 
@@ -61,9 +57,9 @@ Deleted.
 
 /invisible (same as /ev) + (OP Required.)
 
-/godremove (removes god.)
+/rmgod (remove buffs.)
 
-/invisibilityremove (same as /evremove)
+/rminvisi (same as /rmev)
 
 /spacemode (Gives jump boost + levitation to feel like you're in space.) + (OP Required.)
 
@@ -75,30 +71,14 @@ Deleted.
 
 ~~/stopwait (**NOT TESTED**)~~
 
-Two commands have been deleted.
-
-/giveop (Gives OP to user. This command is for my server. If you don't like this command you can delete this command section.)
+/giveop (Gives OP to user. This command is for my server.)
 
 
-## COMMANDS FOR CONVENIENCE
+## COMMANDS FOR MY CONVENIENCE
 
-THIS PART IS JUST USEFUL COMMAND MADE FOR ME AND OTHER ELSE.
-
-AFTER UPDATING 1.13.2, GAMEMODE, DIFFCULTY COMMANDS HAS CHANGED TO FULLY ENGLISH.
-
-SO I MADE THIS COMMAND JUST FOR MY AND OTHER'S CONVINENCE.
-
-And.. the other stuffs. :D
-
-##
-
-/gamemode (You can change your or other's gamemodes with numbers and english.) + (OP Required.)
+/gamemode (You can change your or other's gamemodes with numbers and english. Also works with /gm | Thinking about shorten english support.) + (OP Required.)
 
 /difficulty (You can now change difficulty with numbers and english!) + (OP Required.)
-
-/gm (Reference of Essentials. You can change your orother's gamemodes with numbers and english.)
-
-Thinking about shorten english support.) + (OP Required.)
 
 /compass **(NEEDS WORLDEDIT BECAUSE IT'S FOR WORLDEDIT COMPASS)**
 
@@ -112,7 +92,7 @@ Thinking about shorten english support.) + (OP Required.)
 
 =========================================================================================
 
-## In-Game Events (Event.java)
+## In-Game Events (Event.kt)
 
 onBreak(BlockBreakEvent e)
 
@@ -120,13 +100,13 @@ onPlace(BlockPlaceEvent e)
 
 onPlayerJoin(PlayerJoinEvent e)
 
-Shows the title, sends Message player welcoming.
+For my server | maybe for my future youtube contents.
 
 =========================================================================================
 
 ## Contact & Credits.
 
-Code Director : BaeHyeonWoo
+Code Director : **[[BaeHyeonWoo](https://github.com/qogusdn1017)]**
 
 E-mail : qogusdn1017@naver.com (Primary E-mail)
 
@@ -134,11 +114,11 @@ qogusdn1017@o365.ice.go.kr
 
 baehyeonwoo@o365.ice.go.kr
 
-Other contacts can be found at : https://linktr.ee/baehyeonwoo
+Other contacts can be found at [Here.](https://linktr.ee/baehyeonwoo)
 
 Code Helper & Special Thanks : HappyAndJust, B1ackAnge1
 
-Check their GitHub at here - [HappyAndJust](https://github.com/HappyAndJust),[B1ackAnge1](https://github.com/B1ackAnge1)
+Check their GitHub at here - **[[HappyAndJust](https://github.com/HappyAndJust)]**, **[[B1ackAnge1](https://github.com/B1ackAnge1)]**
 
 =========================================================================================
 
