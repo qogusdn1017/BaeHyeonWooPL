@@ -7,6 +7,10 @@ Written in [Intellij Idea](https://www.jetbrains.com/idea/).
 
 Change lang to [Kotlin](https://kotlinlang.org).
 
+Might need [[Kotlin-Plugin](https://github.com/noonmaru/kotlin-plugin/releases)], [[Tap](https://github.com/noonmaru/tap/releases)] because of depend.
+
+Put my plugin with these plugins.
+
 ##
 
 **This Project is under License "GNU General Public License v3.0".**
