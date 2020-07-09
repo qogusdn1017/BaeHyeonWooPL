@@ -1,6 +1,6 @@
-name: $PluginName
-version: $PluginVersion
-main: $PluginMain
+name: $pluginName
+version: $pluginVersion
+main: $pluginMain
 api-version: '1.15'
 depend: [Kotlin, Tap]
 authors: [BaeHyeonWoo, HappyAndJust, B1ackAnge1]
