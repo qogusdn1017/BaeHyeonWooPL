@@ -1,6 +1,6 @@
-name: $pluginName
-version: $pluginVersion
-main: $pluginMain
+name: BaeHyeonWooPL
+version: 1.5
+main: com.github.qogusdn1017.baehyeonwoopl.Main
 api-version: '1.15'
 depend: [Kotlin, Tap]
 authors: [BaeHyeonWoo, HappyAndJust, B1ackAnge1]
