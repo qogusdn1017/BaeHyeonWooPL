@@ -1,6 +1,7 @@
 package com.github.qogusdn1017.baehyeonwoopl
 
 import org.bukkit.*
+import org.bukkit.command.TabCompleter
 import org.bukkit.attribute.Attribute
 import org.bukkit.command.Command
 import org.bukkit.command.CommandSender
@@ -451,5 +452,8 @@ class Main : JavaPlugin() {
             }
         }
         return false
+    }
+    override fun onTabComplete(sender: CommandSender, cmd: Command, label: String, args: Array<String>): List<String> {
+        return emptyList()
     }
 }

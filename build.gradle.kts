@@ -14,6 +14,7 @@ repositories {
 dependencies {
     compileOnly(kotlin("stdlib-jdk8"))
     compileOnly("com.destroystokyo.paper:paper-api:1.15.2-R0.1-SNAPSHOT")
+    compileOnly("com.github.noonmaru:tap:2.6-dev")
 }
 tasks {
     create<Copy>("distJar") {
