@@ -3,6 +3,8 @@ Simple Minecraft Plugin for me. Needs more updates.
 
 Written in [Intellij Idea](https://www.jetbrains.com/idea/).
 
+#### DEPRECATED. HAVE SOME ERRORS. SEE HERE FOR DETAILS.
+
 ## New Version 
 
 Change lang to [Kotlin](https://kotlinlang.org).
